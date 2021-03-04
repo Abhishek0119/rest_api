@@ -1,0 +1,2 @@
+{"message":"ERRORMongoError: E11000 duplicate key error collection: REST_API.users index: Phone_number_1 dup key: { Phone_number: 7982642527.0 }","level":"error","timestamp":"2021-03-03T11:50:47.350Z"}
+{"message":"ERRORMongoError: E11000 duplicate key error collection: REST_API.users index: Phone_number_1 dup key: { Phone_number: 7982642527.0 }","level":"error","timestamp":"2021-03-03T11:52:04.501Z"}
